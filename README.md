@@ -4,7 +4,7 @@
 exports data from each process or cluster by creating individual indices.
 
 
-#### Or Clone and run as a seperate application
+#### Clone and run as a seperate application
 
 ```shell
     $ git https://github.com/saaitt/pm2-elasticsearch-exporter.git
